@@ -21,8 +21,7 @@ The concentric tube robot can be devided into 4 links since the interaction betw
 ## Path planning for suturing
 We also developed a simple GUI to generate the trajectory of the suturing task. 
 
-More informations are in the vedio below.
-https://youtu.be/3CcIXEhnT74
+[See the video](https://youtu.be/3CcIXEhnT74)
 
 
 ## Optimization problem
@@ -39,11 +38,11 @@ Our objective is to minimize the swept volume and total surface area by the body
 
 ## Optimization platform
 ### OpenMDAO is an open-source framework for effieient multidisciplinary optimization
-[For more information, please visit the website](https://openmdao.org/)
+[For more information, please visit here](https://openmdao.org/)
 
 ## Documentations
 More information are in the document below.
-https://github.com/FredLin0421/ConcentricTubeRobot/blob/master/Final_Project__Open_MDAO%20(2).pdf
+[For more information, please see the report](https://github.com/FredLin0421/ConcentricTubeRobot/blob/master/Final_Project__Open_MDAO%20(2).pdf)
 
 ##
 Use the package manager pip to install OpenMDAO
