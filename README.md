@@ -19,7 +19,7 @@ The concentric tube robot can be devided into 4 links since the interaction betw
 ## Path planning for suturing
 We also developed a simple GUI to generate the trajectory of the suturing task. 
 
-More informations are in the vedio below. Please click the image below.
+More informations are in the vedio below.
 https://youtu.be/3CcIXEhnT74
 
 
@@ -35,7 +35,7 @@ Our objective is to minimize the swept volume and total surface area by the body
    <img src="https://github.com/FredLin0421/ConcentricTubeRobot/blob/master/images/Screen%20Shot%202020-01-13%20at%2012.29.31%20PM.png" width="656" height="248" /> 
 </p>
 
-### Constraints
-
-
 ## Documentations
+More information are in the document below.
+https://github.com/FredLin0421/ConcentricTubeRobot/blob/master/Final_Project__Open_MDAO%20(2).pdf
+
