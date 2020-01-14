@@ -14,7 +14,6 @@ The concentric tube robot can be devided into 4 links since the interaction betw
 <p float="left">
   <img src="https://github.com/FredLin0421/ConcentricTubeRobot/blob/master/images/Screen%20Shot%202020-01-13%20at%208.24.11%20PM.png" width="168" height="276" />
   <img src="https://github.com/FredLin0421/ConcentricTubeRobot/blob/master/images/Screen%20Shot%202020-01-13%20at%208.24.47%20PM.png" width="100" height="276" /> 
-  <img src="/img3.png" width="100" />
 </p>
 
 
