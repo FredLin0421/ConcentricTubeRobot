@@ -38,14 +38,14 @@ Our objective is to minimize the swept volume and total surface area by the body
 
 ## Optimization platform
 ### OpenMDAO is an open-source framework for effieient multidisciplinary optimization
+Use the package manager pip to install OpenMDAO
+```bash
+pip install openmdao
+```
 [For more information, please visit here](https://openmdao.org/)
 
 ## Documentations
 More information are in the document below.
 [For more information, please see the report](https://github.com/FredLin0421/ConcentricTubeRobot/blob/master/Final_Project__Open_MDAO%20(2).pdf)
 
-##
-Use the package manager pip to install OpenMDAO
-```bash
-pip install openmdao
-```
+
