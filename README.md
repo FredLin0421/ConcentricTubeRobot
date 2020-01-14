@@ -13,17 +13,17 @@ Tortionally rigid model has been used in this application. We consider straight-
 The concentric tube robot can be devided into 4 links since the interaction between the outer straight tube and the curved second tube. We then use link 3 to represent the interaction part. Therefore, the curvature of the link 3 could be derived from the formula below.
 
 <p align="center">
-   <img src="https://github.com/FredLin0421/ConcentricTubeRobot/blob/master/images/Screen%20Shot%202020-01-13%20at%208.24.11%20PM.png" width="168" height="276">
-</p>
-<p align="center">
    <img src="https://github.com/FredLin0421/ConcentricTubeRobot/blob/master/images/Screen%20Shot%202020-01-13%20at%208.24.47%20PM.png" width="393" height="273" /> 
 </p>
 
-
-
 ## Path planning for suturing
+We also developed a simple GUI to generate the trajectory of the suturing task. 
+
 More informations are in the vedio below. Please click the image below. 
-[![](https://github.com/FredLin0421/CTR/blob/ctr_opt_all/Pics/Tubes.JPG)](https://www.youtube.com/watch?v=q3hONNn4UwM) 
+```bash
+https://youtu.be/3CcIXEhnT74
+```
+
 ## Optimization problem
 ### Objective functions
 
