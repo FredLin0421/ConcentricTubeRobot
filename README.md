@@ -1,10 +1,12 @@
 # Concentric Tube Robot
 
-## Installation
-Use the package manager pip to install OpenMDAO
-```bash
-pip install openmdao
-```
+## Introduction to Concentric Tube Robot 
+- Catheter-sized continuum robots
+- Able to generate complex snake like motion
+- A set of concentric pre-curved tubes
+- Super elastic materials(Nitilon)
+- Medical applications
+
 ## Kinematic model
 Tortionally rigid model has been used in this application. We consider straight-curve-straight tube as our robot design.
 <p align="center">
@@ -35,7 +37,16 @@ Our objective is to minimize the swept volume and total surface area by the body
    <img src="https://github.com/FredLin0421/ConcentricTubeRobot/blob/master/images/Screen%20Shot%202020-01-13%20at%2012.29.31%20PM.png" width="700" height="200" /> 
 </p>
 
+## Optimization platform
+### OpenMDAO is an open-source framework for effieient multidisciplinary optimization
+[For more information, please visit the website](https://openmdao.org/)
+
 ## Documentations
 More information are in the document below.
 https://github.com/FredLin0421/ConcentricTubeRobot/blob/master/Final_Project__Open_MDAO%20(2).pdf
 
+##
+Use the package manager pip to install OpenMDAO
+```bash
+pip install openmdao
+```
