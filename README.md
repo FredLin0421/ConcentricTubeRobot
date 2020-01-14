@@ -21,7 +21,7 @@ We also developed a simple GUI to generate the trajectory of the suturing task.
 
 More informations are in the vedio below. Please click the image below. 
 ```bash
-https://youtu.be/3CcIXEhnT74
+![](https://youtu.be/3CcIXEhnT74)
 ```
 
 ## Optimization problem
