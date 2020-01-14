@@ -32,7 +32,7 @@ The optimization problem we were trying to solve is to optimize the tube paramet
 ### Objective functions
 Our objective is to minimize the swept volume and total surface area by the body of the concentric tube robots.
 <p align="center">
-   <img src="https://github.com/FredLin0421/ConcentricTubeRobot/blob/master/images/Screen%20Shot%202020-01-13%20at%2012.29.31%20PM.png" width="400" height="200" /> 
+   <img src="https://github.com/FredLin0421/ConcentricTubeRobot/blob/master/images/Screen%20Shot%202020-01-13%20at%2012.29.31%20PM.png" width="700" height="200" /> 
 </p>
 
 ## Documentations
