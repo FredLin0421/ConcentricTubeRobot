@@ -1,4 +1,4 @@
-# ConcentricTubeRobot
+# Concentric Tube Robot
 
 ## Installation
 Use the package manager pip to install OpenMDAO
@@ -25,10 +25,15 @@ https://youtu.be/3CcIXEhnT74
 
 ## Optimization problem
 The optimization problem we were trying to solve is to optimize the tube parameters(diameter of all tubes, curvature of the second tube, stiffness) and the joint values(6 DOF).
-
+<p align="center">
+   <img src="https://github.com/FredLin0421/ConcentricTubeRobot/blob/master/images/Screen%20Shot%202020-01-09%20at%204.45.25%20PM.png" width="656" height="248" /> 
+</p>
 
 ### Objective functions
-Our objective is to minimize the swept volume and total surface area by the body of the concentric tube robots. 
+Our objective is to minimize the swept volume and total surface area by the body of the concentric tube robots.
+<p align="center">
+   <img src="https://github.com/FredLin0421/ConcentricTubeRobot/blob/master/images/Screen%20Shot%202020-01-13%20at%2012.29.31%20PM.png" width="656" height="248" /> 
+</p>
 
 ### Constraints
 
