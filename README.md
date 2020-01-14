@@ -19,8 +19,11 @@ The concentric tube robot can be devided into 4 links since the interaction betw
 ## Path planning for suturing
 We also developed a simple GUI to generate the trajectory of the suturing task. 
 
-More informations are in the vedio below. Please click the image below. 
+More informations are in the vedio below. Please click the image below.
+```bash
 (https://youtu.be/3CcIXEhnT74)
+```
+
 
 
 ## Optimization problem
