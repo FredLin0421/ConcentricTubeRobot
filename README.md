@@ -23,10 +23,12 @@ More informations are in the vedio below. Please click the image below.
 https://youtu.be/3CcIXEhnT74
 
 
-
-
 ## Optimization problem
+The optimization problem we were trying to solve is to optimize the tube parameters(diameter of all tubes, curvature of the second tube, stiffness) and the joint values(6 DOF).
+
+
 ### Objective functions
+Our objective is to minimize the swept volume and total surface area by the body of the concentric tube robots. 
 
 ### Constraints
 
