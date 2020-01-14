@@ -1,5 +1,5 @@
 # Concentric Tube Robot
-
+*The goal of our project is to develop a dual-arm concentric tube robots for autonomous suturing.
 ## Introduction to Concentric Tube Robot 
 - Catheter-sized continuum robots
 - Able to generate complex snake like motion
