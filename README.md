@@ -1,4 +1,4 @@
-# Concentric Tube Robots: Task Oriented Optimization of TubeParameters and Motion Planning
+# Concentric Tube Robots: Task Oriented Optimization of Tube Parameters and Motion Planning
 **The ultimate goal of our project is to develop a dual-arm concentric tube robots for autonomous suturing**
 ## Introduction to Concentric Tube Robot 
 - Catheter-sized continuum robots
